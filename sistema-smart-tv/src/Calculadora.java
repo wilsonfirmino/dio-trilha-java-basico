@@ -9,6 +9,7 @@
 * @version 1.0
 * @since   24/08/2023
 */
+
 public class Calculadora {
     // No terminal execute o comando abaixo para gerar a documentaÇão
     //javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  src/*.java
