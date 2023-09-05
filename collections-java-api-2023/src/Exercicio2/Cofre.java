@@ -47,8 +47,7 @@ public class Desafio {
     
     // TODO: Implemente a condição necessário para a verificação dos cofres seguros:
     if (tipoCofre.equalsIgnoreCase("digital")) {
-    
-
+      System.out.println("Teste");
     }
   }
 }
