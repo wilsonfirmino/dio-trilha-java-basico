@@ -12,4 +12,5 @@ public class AparelhoTelefonico {
     public void iniciarCorrerioVoz(){
         System.out.println("* Iniciando Correrio de Voz");
     }
+    
 }

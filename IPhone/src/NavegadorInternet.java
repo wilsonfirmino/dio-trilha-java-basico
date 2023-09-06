@@ -1,6 +1,6 @@
 public class NavegadorInternet {
     //Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
-    
+
     public void exibirPagina(){
         System.out.println("* Exibindo Pagina");
     }
@@ -12,4 +12,5 @@ public class NavegadorInternet {
     public void atualizarPagina(){
         System.out.println("* Atualizando pagina");
     }
+    
 }
